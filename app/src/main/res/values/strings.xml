@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offerss</string>
+    <string name="home_url" translatable="false">https://www.theofferss.com/</string>
+    <string name="offline_title">No internet connection</string>
+    <string name="offline_message">Check your connection and try again.</string>
+    <string name="retry">Try again</string>
+    <string name="google_login_title">Google login not available in the app yet</string>
+    <string name="google_login_message">Please log in with Google on theofferss.com in your phone\'s browser for now. You can keep browsing and shopping in the app.</string>
+    <string name="ok">OK</string>
+    <string name="no_app_found">No app found to open this link.</string>
+</resources>
